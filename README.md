@@ -1,4 +1,4 @@
-# AgroRover X
+## AgroRover X
 
 An IoT-based smart agriculture robot prototype designed for crop monitoring, obstacle detection, soil moisture management, and future AI-powered plant disease detection.
 
