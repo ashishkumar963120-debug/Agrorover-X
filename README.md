@@ -126,3 +126,11 @@ Lead Developer & Creator: Ashish Kumar Rana (Full Code & Implementation)
 Team Members: [Akhilesh], [Karan], [Purushotham]
 
 License: Created for 2nd semester college educational and prototyping purposes.
+## Circuit Diagram
+![Circuit Diagram](circuit.png)
+
+## Other Views
+- **Front View:** ![Front View](front_view.jpeg)
+- **Side View:** ![Side View](side_view.jpeg)
+- **Side View with Mobile:** ![Side View with Mobile](side_view_with_mobile.jpeg)
+- **Mobile View Interface:** ![Mobile View](Mobile_view.jpeg)
