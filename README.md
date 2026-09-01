@@ -101,7 +101,7 @@ When the robot moves backward and the IR sensor encounters an object:
 - **Firmware:** Arduino Uno firmware & ESP32-CAM web control server scripts.
 - **Interface:** HTML and JavaScript control dashboard.
 
-```text
+
 AgroRover-X/
 ├── README.md
 ├── wiring_diagram.md
@@ -109,7 +109,7 @@ AgroRover-X/
 │   └── AgroRover_ESP32_CAM.ino
 ├── arduino_uno/
 │   └── AgroRover_Arduino_Uno.ino
-```└── assets/
+└── assets/
 
 Future Scope
 Implementation of real-time crop leaf disease classification using advanced machine learning models (AI/ML).
