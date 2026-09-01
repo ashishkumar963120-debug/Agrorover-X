@@ -112,7 +112,8 @@ AgroRover-X/
 │   └── AgroRover_Arduino_Uno.ino
 └── assets/
 
-#Future Scope
+##Future Scope
+
 Implementation of real-time crop leaf disease classification using advanced machine learning models (AI/ML).
 
 Integration of cloud-based storage for capturing and reviewing plant health images over time.
