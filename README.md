@@ -10,6 +10,10 @@ An IoT-based smart agriculture robot prototype designed for crop monitoring, obs
 
 AgroRover X is an autonomous and web-controlled agricultural robot built using an **ESP32-CAM** and an **Arduino Uno**. It combines remote mobility, real-time environmental sensing, automated irrigation, and a simulation framework for future plant pathology diagnostics.
 
+## Working Model Overview
+
+<img src="assets/working_model.png" width="700">
+
 > **Important Disease Detection Note:** The actual AI/ML-based crop leaf disease detection could not be implemented in the current version due to module limitations during prototype development. Instead, a buzzer and blinking LED are used as a **fake demonstration indication** to simulate a future disease alert workflow.
 
 ---
@@ -128,7 +132,7 @@ License: Created for 2nd semester college educational and prototyping purposes.
 ## Circuit Diagram
 
 <img src="assets/circuit.png" width="600"> 
-![Circuit Diagram](assets/circuit.png)
+
 
 ## Other Views
 
