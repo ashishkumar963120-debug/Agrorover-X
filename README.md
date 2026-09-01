@@ -1,5 +1,3 @@
-# Agrorover-X
-IoT smart agriculture robot using ESP32-CAM and Arduino Uno
 # AgroRover X
 
 An IoT-based smart agriculture robot prototype designed for crop monitoring, obstacle detection, soil moisture management, and future AI-powered plant disease detection.
