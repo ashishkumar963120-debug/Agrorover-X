@@ -109,7 +109,7 @@ AgroRover-X/
 │   └── AgroRover_ESP32_CAM.ino
 ├── arduino_uno/
 │   └── AgroRover_Arduino_Uno.ino
-└── assets/
+```└── assets/
 
 Future Scope
 Implementation of real-time crop leaf disease classification using advanced machine learning models (AI/ML).
