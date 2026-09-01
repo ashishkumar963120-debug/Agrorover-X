@@ -129,24 +129,22 @@ License: Created for 2nd semester college educational and prototyping purposes.
 
 <img src="assets/circuit.png" width="600"> 
 ![Circuit Diagram](assets/circuit.png)
-## Circuit Diagram
-
-<img src="assets/circuit.png" width="600">
 
 ## Other Views
 
 - **Front View:**
 <img src="assets/front_view.jpeg" width="600">
-- **Front View:** ![Front View](assets/front_view.jpeg)
+ ![Front View](assets/front_view.jpeg)
+
 - **Side View:**
 <img src="assets/side_view.jpeg" width="600">
-- **Side View:** ![Side View](assets/side_view.jpeg)
+![Side View](assets/side_view.jpeg)
 - **Side View with Mobile:**
 <img src="assets/side_view_with_mobile.jpeg" width="600">
-- **Side View with Mobile:** ![Side View with Mobile](assets/side_view_with_mobile.jpeg)
+![Side View with Mobile](assets/side_view_with_mobile.jpeg)
 - **Mobile View Interface:**
 <img src="assets/Mobile_view.jpeg" width="600">
-- **Mobile View Interface:** ![Mobile View](assets/Mobile_view.jpeg)
+![Mobile View](assets/Mobile_view.jpeg)
 
 
 
