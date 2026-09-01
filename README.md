@@ -134,17 +134,17 @@ License: Created for 2nd semester college educational and prototyping purposes.
 
 - **Front View:**
 <img src="assets/front_view.jpeg" width="600">
- ![Front View](assets/front_view.jpeg)
+
 
 - **Side View:**
 <img src="assets/side_view.jpeg" width="600">
-![Side View](assets/side_view.jpeg)
+
 - **Side View with Mobile:**
 <img src="assets/side_view_with_mobile.jpeg" width="600">
-![Side View with Mobile](assets/side_view_with_mobile.jpeg)
+
 - **Mobile View Interface:**
 <img src="assets/Mobile_view.jpeg" width="600">
-![Mobile View](assets/Mobile_view.jpeg)
+
 
 
 
