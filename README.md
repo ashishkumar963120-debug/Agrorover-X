@@ -120,14 +120,14 @@ Addition of GPS modules for automated field navigation and mapping.
 
 Development of a dedicated mobile application for remote monitoring outside local Wi-Fi range.
 
-Project Team & Author
-Lead Developer & Creator: Ashish Kumar Rana (Full Code & Implementation)
-
-Team Members: [Akhilesh], [Karan], [Purushotham]
+### Project Team & Author
+- **Lead Developer & Creator:** Ashish Kumar Rana (Full Code & Implementation)
+- **Team Members:** Akhilesh, Karan, Purushotham
 
 License: Created for 2nd semester college educational and prototyping purposes.
-
 ## Circuit Diagram
+
+<img src="assets/circuit.png" width="600"> 
 ![Circuit Diagram](assets/circuit.png)
 
 ## Other Views
