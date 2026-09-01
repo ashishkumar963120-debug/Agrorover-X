@@ -103,7 +103,7 @@ When the robot moves backward and the IR sensor encounters an object:
 - **Firmware:** Arduino Uno firmware & ESP32-CAM web control server scripts.
 - **Interface:** HTML and JavaScript control dashboard.
 
-
+```text
 AgroRover-X/
 ├── README.md
 ├── wiring_diagram.md
